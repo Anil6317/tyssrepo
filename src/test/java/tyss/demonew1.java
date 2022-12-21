@@ -1,5 +1,5 @@
 package tyss;
-
+//
 public class demonew1 {
 
 	public static void main(String[] args) {
